@@ -1,0 +1,35 @@
+*{
+	margin:0;
+	padding:0;
+}
+#header {
+	position:absolute;
+	width:100%;
+	top:0;
+	height:50px;
+    background-color:black;
+    color:white;
+    text-align:center;
+    
+}
+#nav {
+	position:absolute;
+    background-color:#eeeeee;
+    width:100px;
+    float:left;
+top: 50px; right: 0; bottom: 0; left: 0;	
+}
+#section {
+	position: absolute;
+    top: 50px; right: 0; bottom: 0; left: 100px;
+    overflow: scroll;
+}
+#footer {
+	position:absolute;
+	bottom:0;
+	width:100%;
+	display:block;
+    background-color:black;
+    color:white;
+    text-align:center;
+  }
