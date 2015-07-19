@@ -2,7 +2,7 @@
 	margin:0;
 	padding:0;
 }
-h1, p, #footer, footer {
+h1, p; #footer; footer {
 	font-family: verdana;
 } 
 #header {
