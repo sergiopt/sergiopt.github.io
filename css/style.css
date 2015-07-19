@@ -2,8 +2,8 @@
 	margin:0;
 	padding:0;
 }
-#header, #nav, #section, #footer, {
-	font-weight: bold;
+h1, p {
+	font-family: verdana;
 } 
 #header {
 	position:absolute;
